@@ -1,6 +1,6 @@
 About
 -----------------------------------
-WeeCare has decided to spin off a business unit dedicated to recommending top music albums to our user base.
+Upwards has decided to spin off a business unit dedicated to recommending top music albums to our user base.
 
 The Design and Frontend team has scaffolded some initial layouts and source code, but the application still needs some work to be presented at the next Product + Engineering meeting.
 
@@ -39,8 +39,8 @@ Upon completing the above functionality, the Frontend team will sync on the foll
 Deploying Locally
 -----------------------------------
 - ensure you have node `v16.4.0` or higher, and npm `7.18.1` or higher installed in your dev environment. See resource for installing npm locally: https://nodejs.org/en/download/package-manager/
-- run `git clone git@github.com:weecareinc/weecare-frontend-challenge.git`
-- run `cd weecare-frontend-challenge`
+- run `git clone git@github.com:upwardsinc/upwards-frontend-challenge.git`
+- run `cd upwards-frontend-challenge`
 - run `npm install`
 - run `npm run build`
 - run `npm start`
@@ -49,7 +49,7 @@ Deploying Locally
 
 Submitting
 -----------------------------------
-When you are ready to submit, zip the `weecare-frontend-challenge` directory and email back to the hiring manager you are in contact with.
+When you are ready to submit, zip the `upwards-frontend-challenge` directory and email back to the hiring manager you are in contact with.
 
 
 Completed Desktop View:
