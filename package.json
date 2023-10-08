@@ -1,7 +1,7 @@
 {
-  "name": "weecare-frontend-challenge",
+  "name": "upwards-frontend-challenge",
   "version": "1.0.0",
-  "description": "About ----------------------------------- WeeCare has decided to spin off a business unit dedicated to recommending top music albums to our user base.",
+  "description": "About ----------------------------------- Upwards has decided to spin off a business unit dedicated to recommending top music albums to our user base.",
   "main": "webpack.config.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -15,15 +15,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/weecareinc/weecare-frontend-challenge.git"
+    "url": "git+https://github.com/upwardsinc/upwards-frontend-challenge.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/weecareinc/weecare-frontend-challenge/issues"
+    "url": "https://github.com/upwardsinc/upwards-frontend-challenge/issues"
   },
-  "homepage": "https://github.com/weecareinc/weecare-frontend-challenge#readme",
+  "homepage": "https://github.com/upwardsinc/upwards-frontend-challenge#readme",
   "dependencies": {
     "body-parser": "^1.20.0",
     "es6-promise": "^4.2.8",
